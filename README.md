@@ -19,7 +19,7 @@ Gesture recognition is a fast-expanding area of research in computer science and
 To get started with this project, follow these steps:
 
 1. Clone the repository: https://github.com/Luis-Morenoo/Hand_Gesture_Recogniton/tree/main
-2. 2. Run the main Python script to start real-time gesture recognition
+2. 2. Run the "Second attempt.ipynb" Python script to start real-time gesture recognition
   
 How It Works
 
